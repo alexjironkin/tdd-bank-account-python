@@ -3,7 +3,7 @@
 import pytest
 
 
-@pytest.skip("My first test")
+@pytest.skip("Not implemented")
 def test_deposit_ammount():
-    """"""
-    assert True == False
+    """Test deposit amunt reflects in Account"""
+    assert True == False  # noqa: E712
