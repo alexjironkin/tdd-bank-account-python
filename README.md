@@ -1,4 +1,4 @@
-[![](../../workflows/build/badge.svg?branch=instructors)](../../actions?query=workflow%3Abuild)
+[![Build and Test](https://github.com/alexjironkin/tdd-bank-account-python/actions/workflows/build_and_test.yml/badge.svg?branch=main)](https://github.com/alexjironkin/tdd-bank-account-python/actions/workflows/build_and_test.yml)
 
 # Driving out a Bank Account with TDD
 
