@@ -27,7 +27,7 @@ Two key things to learn / practice in this Kata:
 
 2. Install python dependencies:
    `pip install -r requirements.txt`
-3. Open the project from your IDE, and you will find **tdd_bank_dojo** source folder with **tests** and **account.py**
+3. Open the project from your IDE, and you will find **tdd_bank_dojo** source folder with **tests** and **account.py**. Instructions for setting up VS Code can be found [here](vscode.md).
 4. Run your tests:
    `python -m pytest tdd_bank_dojo/tests`
 5. Implement the following user requirements in a TDD fashion. Work in pairs and read the guidelines and background information below before starting.
